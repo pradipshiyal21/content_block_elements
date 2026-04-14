@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:setup/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:37Z" product-name="setup" target-language="hi">
+    <header/>
+    <body>
+      <trans-unit id="UserSettings" approved="yes">
+        <source>User Settings</source>
+        <target state="final">उपयोगकर्ता सेटिंग</target>
+      </trans-unit>
+      <trans-unit id="language" approved="yes">
+        <source>Language</source>
+        <target state="final">भाषा</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable" approved="yes">
+        <source>The selected language "%s" is not available before the language files are installed.</source>
+        <target state="final">चयनित भाषा "%s" को उपलब्ध नहीं माना जाता है जब तक भाषा फ़ाइलें स्थापित नहीं होतीं।</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable.admin" approved="yes">
+        <source>You can use "Manage Language Packs" in the Maintenance module to easily download new language files.</source>
+        <target state="final">नई भाषा फ़ाइलें आसानी से डाउनलोड करने के लिए "Manage Language Packs" में "भाषा पैक्स प्रबंधित करना" का उपयोग कर सकते हैं।</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable.user" approved="yes">
+        <source>Please ask your system administrator to do this.</source>
+        <target state="final">कृपया अपने सिस्टम प्रशासक से इसे करने के लिए पूछें।</target>
+      </trans-unit>
+      <trans-unit id="simulate" approved="yes">
+        <source>Simulate backend user</source>
+        <target state="final">उपयोगकर्ता बैकेंड सिमुलेट करे</target>
+      </trans-unit>
+      <trans-unit id="opening" approved="yes">
+        <source>Backend appearance</source>
+        <target state="final">बैकएंड दिखने वाला</target>
+      </trans-unit>
+      <trans-unit id="personal_data" approved="yes">
+        <source>Personal data</source>
+        <target state="final">व्यक्तिगत डेटा</target>
+      </trans-unit>
+      <trans-unit id="startModule" approved="yes">
+        <source>Start up in the following module</source>
+        <target state="final">निम्नलिखित मॉड्यूल में स्टार्टउप</target>
+      </trans-unit>
+      <trans-unit id="emailMeAtLogin" approved="yes">
+        <source>Notify me by email when somebody logs in from my account</source>
+        <target state="final">जब कोई मेरे खाते में से लोगिन है तो मुझे ईमेल द्वारा सूचित करे</target>
+      </trans-unit>
+      <trans-unit id="helpText" approved="yes">
+        <source>Show help text when applicable</source>
+        <target state="final">जब एप्लीकेबल हो तब हेल्प टेक्स्ट दिखाए</target>
+      </trans-unit>
+      <trans-unit id="maxTitleLen" approved="yes">
+        <source>Max. title length</source>
+        <target state="final">अधिकतम शीर्षक लंबाई</target>
+      </trans-unit>
+      <trans-unit id="edit_docModuleUpload" approved="yes">
+        <source>File upload directly in Doc-module</source>
+        <target state="final">सीधे डॉक्-मॉड्यूल में फाइल अपलोड करे</target>
+      </trans-unit>
+      <trans-unit id="showHiddenFilesAndFolders" approved="yes">
+        <source>Show hidden files and folders in the filelist</source>
+        <target state="final">फाइल-लिस्ट में छुपाई गई फाइल और फोल्डर को दिखाए</target>
+      </trans-unit>
+      <trans-unit id="editFunctionsTab" approved="yes">
+        <source>Edit and advanced functions</source>
+        <target state="final">संपादित और उन्नत कार्य</target>
+      </trans-unit>
+      <trans-unit id="setToStandard" approved="yes">
+        <source>Reset all values to default</source>
+        <target state="final">सभी मानों को डिफ़ॉल्ट मानों में रीसेट करें</target>
+      </trans-unit>
+      <trans-unit id="resetTab" approved="yes">
+        <source>Reset configuration</source>
+        <target state="final">कॉन्फ़िगरेशन रीसेट करें</target>
+      </trans-unit>
+      <trans-unit id="resetConfiguration" approved="yes">
+        <source>Reset configuration and clear temporary data</source>
+        <target state="final">कॉन्फ़िगरेशन को रीसेट करें और अस्थायी डेटा को हटाएं</target>
+      </trans-unit>
+      <trans-unit id="resetConfigurationButton" approved="yes">
+        <source>Reset user settings to default state</source>
+        <target state="final">यूजर सेटिंग्स को डिफ़ॉल्ट स्टेट में रिसेट करे</target>
+      </trans-unit>
+      <trans-unit id="setToStandardQuestion" approved="yes">
+        <source>Are you sure you want to reset all values to default?</source>
+        <target state="final">आप सचमे सभी मूल्यों को डिफ़ॉल्ट में रिसेट करने के लिए सुनिश्चित है ?</target>
+      </trans-unit>
+      <trans-unit id="functions" approved="yes">
+        <source>Advanced functions</source>
+        <target state="final">एडवांस फ़ंक्शंस</target>
+      </trans-unit>
+      <trans-unit id="copyLevels" approved="yes">
+        <source>Recursive copy: Enter the number of page sublevels to include, when a page is copied</source>
+        <target state="final">पुनरावर्ती कॉपी: जब पेज की कॉपी की है तब उसमे शामिल करने के लिए पेज सब-लेवल्स की संख्या को दर्ज करे</target>
+      </trans-unit>
+      <trans-unit id="levels" approved="yes">
+        <source>levels</source>
+        <target state="final">लेवल्स</target>
+      </trans-unit>
+      <trans-unit id="beUser_realName" approved="yes">
+        <source>Your name</source>
+        <target state="final">आपका नाम</target>
+      </trans-unit>
+      <trans-unit id="beUser_avatar" approved="yes">
+        <source>Avatar</source>
+        <target state="final">अवतार</target>
+      </trans-unit>
+      <trans-unit id="beUser_email" approved="yes">
+        <source>Your email address</source>
+        <target state="final">आपका ईमेल एड्रेस</target>
+      </trans-unit>
+      <trans-unit id="save" approved="yes">
+        <source>Save configuration</source>
+        <target state="final">कॉन्फ़िगरेशन सेव करे</target>
+      </trans-unit>
+      <trans-unit id="newPassword" approved="yes">
+        <source>New password</source>
+        <target state="final">नया पासवर्ड</target>
+      </trans-unit>
+      <trans-unit id="newPasswordAgain" approved="yes">
+        <source>New password (repetition)</source>
+        <target state="final">नया पासवर्ड (दोहराव)</target>
+      </trans-unit>
+      <trans-unit id="newPassword_ok" approved="yes">
+        <source>Password was updated.</source>
+        <target state="final">पासवर्ड अपडेट किया गया था.</target>
+      </trans-unit>
+      <trans-unit id="passwordPolicyFailed" approved="yes">
+        <source>The password was NOT updated, since it does not meet the password policy requirements.</source>
+        <target state="final">पासवर्ड अपडेट नहीं किया गया था, क्योंकि यह पासवर्ड नीति योग्यता की मान्यता पूर्ण नहीं थी।</target>
+      </trans-unit>
+      <trans-unit id="accountSecurity" approved="yes">
+        <source>Account security</source>
+        <target state="final">खाते की सुरक्षा</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders" approved="yes">
+        <source>Multi-factor authentication</source>
+        <target state="final">बहु-कारक ऑथेंटिकेशन</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.notAvailable" approved="yes">
+        <source>Multi-factor authentication is currently not available.</source>
+        <target state="final">हाल ही में बहु-कारक प्रमाणीकरण उपलब्ध नहीं है।</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.description" approved="yes">
+        <source>Use multi-factor authentication to secure your account by providing another factor next to your password.</source>
+        <target state="final">अपने खाते की सुरक्षा सुनिश्चित करने के लिए एक और कारक प्रदान करके बहु-कारक प्रमाणीकरण का उपयोग करें।</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.lockedMfaProviders" approved="yes">
+        <source>Some providers are currently locked!</source>
+        <target state="final">कुछ प्रदाताओं को अभी तक लॉक किया गया है!</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.enabled" approved="yes">
+        <source>Enabled</source>
+        <target state="final">सक्षम</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.setupLinkTitle" approved="yes">
+        <source>Setup multi-factor authentication</source>
+        <target state="final">बहु-कारक प्रमाणीकरण को सेटअप करें</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.manageLinkTitle" approved="yes">
+        <source>Manage multi-factor authentication</source>
+        <target state="final">बहु-कारक प्रमाणीकरण प्रबंधित करें</target>
+      </trans-unit>
+      <trans-unit id="setupWasUpdated" approved="yes">
+        <source>User settings were updated.</source>
+        <target state="final">यूजर सेटिंग्स अपडेट किया गया था.</target>
+      </trans-unit>
+      <trans-unit id="newPassword_failed" approved="yes">
+        <source>Password was NOT updated because you didn't enter the same password twice.</source>
+        <target state="final">पासवर्ड अपडेट नहीं किया गया था क्योकि आपने दो बार एक ही पासवर्ड को दर्ज नहीं किया था.</target>
+      </trans-unit>
+      <trans-unit id="oldPassword_failed" approved="yes">
+        <source>Password was NOT updated because you didn't enter the correct current password.</source>
+        <target state="final">पासवर्ड अपडेट नहीं किया गया था क्योकि आपने वर्तमान पासवर्ड सही नहीं दर्ज किया था</target>
+      </trans-unit>
+      <trans-unit id="settingsAreReset" approved="yes">
+        <source>The user settings have been reset to default values and temporary data has been cleared.</source>
+        <target state="final">उपयोगकर्ता सेटिंग्स को डिफ़ॉल्ट वैल्यू पर रिसेट कर दिया है और टेम्पररी डेटा को क्लियर कर दिया गया है.</target>
+      </trans-unit>
+      <trans-unit id="startModule.firstInMenu" approved="yes">
+        <source>- First module in menu -</source>
+        <target state="final">- मेनू में पहला मॉड्यूल -</target>
+      </trans-unit>
+      <trans-unit id="avatar.clear" approved="yes">
+        <source>Remove selected avatar image</source>
+        <target state="final">चयनित अवतार छवि हटाएं</target>
+      </trans-unit>
+      <trans-unit id="avatar.openFileBrowser" approved="yes">
+        <source>Open file browser to select avatar image</source>
+        <target state="final">अवतार छवि का चयन करने के लिए फ़ाइल ब्राउज़र खोलें</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat" approved="yes">
+        <source>Format of window title in backend</source>
+        <target state="final">बैकएंड में विंडो शीर्षक का प्रारूप</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat.sitenameFirst" approved="yes">
+        <source>[sitename] · [title]</source>
+        <target state="final">[साइटनाम] · [शीर्षक]</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat.titleFirst" approved="yes">
+        <source>[title] · [sitename]</source>
+        <target state="final">[शीर्षक] · [साइटनाम]</target>
+      </trans-unit>
+      <trans-unit id="warning.chineseSimplified" approved="yes">
+        <source>Chinese Simplified (legacy) - Warning: Choose Chinese Simplified below, as this is wrong due to older versions of TYPO3 and might be removed soon.</source>
+        <target state="final">चीनी सरलीकृत (पुरानी) - चीनी सरलीकृत का चयन करें, क्योंकि यह पुराने संस्करणों के कारण गलत है और जल्द ही हटा दिया जा सकता है।</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

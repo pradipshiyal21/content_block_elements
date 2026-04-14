@@ -1,0 +1,4 @@
+name: nitsan/testing
+label: 'testing'
+dependencies:
+  - bootstrap-package/full

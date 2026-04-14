@@ -1,0 +1,26 @@
+base: 'https://v13.ddev.site/testing-page'
+languages:
+  -
+    title: English
+    enabled: true
+    languageId: 0
+    base: /
+    locale: en_US.UTF-8
+    navigationTitle: English
+    flag: us
+    hreflang: ''
+    websiteTitle: ''
+  -
+    title: Caneda
+    enabled: true
+    locale: en_CA.utf8
+    hreflang: ''
+    base: /ca
+    websiteTitle: 'Caneda Language'
+    navigationTitle: ''
+    fallbackType: strict
+    fallbacks: ''
+    flag: global
+    languageId: 1
+rootPageId: 8
+websiteTitle: ''
