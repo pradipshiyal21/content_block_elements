@@ -44,3 +44,9 @@ nbproject
 # Node (if used)
 # =========================
 node_modules/
+
+# SSH keys
+NITSAN_GITHUB
+NITSAN_GITHUB.pub
+*.pem
+*.key
