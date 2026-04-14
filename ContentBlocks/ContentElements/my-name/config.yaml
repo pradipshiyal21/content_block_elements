@@ -1,0 +1,8 @@
+name: my-vendor/my-name
+typeName: myvendor_myname
+group: default
+prefixFields: true
+prefixType: full
+fields:
+  - identifier: header
+    useExistingField: true

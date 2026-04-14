@@ -1,0 +1,28 @@
+name: my-vendor/accordion
+typeName: myvendor_accordion
+group: default
+prefixFields: true
+prefixType: full
+
+fields:
+  - identifier: title
+    type: Text
+    label: Title
+
+  - identifier: description
+    type: Textarea
+    enableRichtext: true
+    label: Description
+
+  - identifier: faq_items
+    type: Collection
+    label: FAQ Items
+    fields:
+      - identifier: question
+        type: Text
+        label: Question
+
+      - identifier: answer
+        type: Textarea
+        enableRichtext: true
+        label: Answer

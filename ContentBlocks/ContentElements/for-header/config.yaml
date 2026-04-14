@@ -1,0 +1,15 @@
+name: new-block/for-header
+typeName: newblock_forheader
+group: default
+prefixFields: true
+prefixType: full
+fields:
+  - identifier: header_text
+    type: Text
+    label: Header Text
+
+  - identifier: header_image
+    type: File
+    label: Header Image
+    maxitems: 1
+    allowed: common-image-types
