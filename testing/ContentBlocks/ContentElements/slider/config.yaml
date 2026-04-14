@@ -1,0 +1,26 @@
+name: my-vendor/slider
+typeName: myvendor_slider
+group: default
+prefixFields: true
+prefixType: full
+fields:
+  - identifier: header
+    useExistingField: true
+
+  - identifier: slides
+    type: Collection
+    label: Slides
+    fields:
+      - identifier: image
+        type: File
+        label: Image
+        maxitems: 1
+        allowed: common-image-types
+
+      - identifier: caption
+        type: Text
+        label: Caption
+
+      - identifier: link
+        type: Link
+        label: Link

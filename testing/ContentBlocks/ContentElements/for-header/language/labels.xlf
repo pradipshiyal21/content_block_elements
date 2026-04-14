@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" original="labels.xlf" source-language="en" date="2026-04-10T14:03:58+00:00" product-name="new-block/for-header">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>add image</source>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Description for Content Element new-block/for-header</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
